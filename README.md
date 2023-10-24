@@ -26,7 +26,7 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-roxaniefernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxanie-fernandes/)](https://www.linkedin.com/in/roxanie-fernandes-/)
+[![Linkedin](https://img.shields.io/badge/-roxaniefernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxanie-fernandes/)](https://www.linkedin.com/in/roxanie-fernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-roxaniedmfernandes@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roxaniedmfernandes@gmail.com)](mailto:roxaniedmfernandes@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/RoxanieFernandes)
 
